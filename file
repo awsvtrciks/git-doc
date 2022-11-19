@@ -1,4 +1,4 @@
-ls
+ls -ltr
 pwd
 ls -l
 mkdir vtricks
