@@ -1,0 +1,104 @@
+Session-01 @ 03/09/2022
+======================
+
+ AWS + Linux Basics + DevOps
+==================================
+90 Hours
+Sat-Sun 12:30PM IST
+=================
+Topics:
+-----
+1) Virtulaization Technolgy
+This enables IT organizations to run more than one virtual system – 
+and multiple operating systems and applications – on a single server.
+  typ1-Bare Metal
+  ===============
+  The Type 1 hypervisor doesn't have to load an underlying OS. With direct access to the underlying hardware and
+  no other software -- such as OSes and device
+
+  type2-Hosted 
+  ============
+  A Type 2 hypervisor is typically installed on top of an existing OS. It is sometimes called a hosted hypervisor because it relies on the host machine's 
+  preexisting OS to manage calls to CPU, memory, storage and network resources.
+
+2) About Cloud Computing:
+======================
+ Cloud computing is a process to allow on-demand network access to shared computing resources.
+
+on-demand: you use it when you need it 
+n/w access :internet
+shared computing resources: Memory, Storage...
+
+Cloud computing is shared and access the data over internet.
+=====================================================================
+3) Types of Clouds
+=====================
+a) public cloud: AWS, Azure,GCP & Alibaba
+b) private cloud: with in organization   ex: sbi --meghadoot
+c) Hybrid cloud: Hybrid cloud is IT infrastructure that connects at least one public cloud and at least one private cloud.
+
+3) Types of Service Models
+===============================
+IAAS: aws
+PAAS: Elastic Beanstalk
+SAAS: Example. Amazon lightsail, Google’s G Suite
+	
+
+shared-responsibility-model
+===========================
+Link: https://aws.amazon.com/compliance/shared-responsibility-model/
+
+AWS Global Infrastructure:
+===========================
+Region, Availability Zone & Edge locations
+
+Link: https://aws.amazon.com/about-aws/global-infrastructure/
+What is a Region
+geographical location ex: Mumbai
+
+Availability Zone- data centres which contains physcial resources 
+
+Edge locations are AWS data centers designed to deliver services with the lowest latency possible.
+
+Creation of a Free tier AWS account:
+AWS Free tier account creation link: https://aws.amazon.com/premiumsupport/knowledge-center/create-and-activate-aws-account/
+like creation of a gmail a/c
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+-gmail
+-debit/credit=>Visa/master card
+Rs.2 will deduct for verification, Once done verification,AWS will return the 2Rs.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=========================
