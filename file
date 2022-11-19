@@ -1,3 +1,7 @@
 ls
 pwd
 ls -l
+mkdir vtricks
+cd vtrciks
+useradd vtrciks
+
